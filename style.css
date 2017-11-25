@@ -1,0 +1,7 @@
+h1 {
+    color: red;
+}
+
+p:nth-child(2) {
+    font-size: 120%;
+}
